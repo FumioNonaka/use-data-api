@@ -1,6 +1,7 @@
 {
-  "name": "use-data-api",
-  "version": "1.1.0",
+  "name": "use-data-api-example",
+  "version": "1.1.1",
+  "main": "index.js",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.4.1",
